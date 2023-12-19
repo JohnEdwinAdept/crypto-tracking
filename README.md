@@ -1,1 +1,1 @@
-This my crypto React Application
+This my crypto currencies Tracking Application
